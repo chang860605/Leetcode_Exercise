@@ -16,7 +16,8 @@ Language: C++
 	* ✅ 0605. Can Place Flowers
 	* ✅ 0021. Merge Two Sorted Lists
 * Medium
-	* ✅ 0003. Longest Substring Without Repeating Characters	
+	* ✅ 0003. Longest Substring Without Repeating Characters
+	* ⬜️ 0005. Longest Palindromic Substring
 	* ✅ 0011. Container With Most Water
 	* ⬜️ 0015. 3Sum 
 	* ⬜️ 0019. Remove Nth Node From End of List
