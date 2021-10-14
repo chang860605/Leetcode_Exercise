@@ -13,8 +13,8 @@ Language: C++
 ## Problem
 
 * Easy
-	* ✅ 0605. Can Place Flowers
 	* ✅ 0021. Merge Two Sorted Lists
+	* ✅ 0605. Can Place Flowers
 * Medium
 	* ✅ 0003. Longest Substring Without Repeating Characters
 	* ⬜️ 0005. Longest Palindromic Substring
