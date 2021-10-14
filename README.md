@@ -23,6 +23,7 @@ Language: C++
 	* ⬜️ 0019. Remove Nth Node From End of List
 	* ✅ 0039. Combination Sum
 	* ✅ 0040. Combination Sum II
+	* ✅ 0279. Perfect Square
 	* ⬜️ 0300. Longest Increasing Subsequence
 * Hard
 	* ⬜️ 0023. Merge k Sorted Lists
