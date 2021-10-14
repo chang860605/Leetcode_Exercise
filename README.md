@@ -21,6 +21,8 @@ Language: C++
 	* ✅ 0011. Container With Most Water
 	* ⬜️ 0015. 3Sum 
 	* ⬜️ 0019. Remove Nth Node From End of List
+	* ✅ 0039. Combination Sum
+	* ✅ 0040. Combination Sum II
 	* ⬜️ 0300. Longest Increasing Subsequence
 * Hard
 	* ⬜️ 0023. Merge k Sorted Lists
