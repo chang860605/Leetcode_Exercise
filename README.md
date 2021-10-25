@@ -25,8 +25,11 @@ Language: C++
 	* ✅ 0033. Search in Rotated Sorted Array
 	* ✅ 0039. Combination Sum
 	* ✅ 0040. Combination Sum II
-	* ✅ 0050. Pow(x, n)
 	* ⬜️ 0048. Rotate Image
+	* ✅ 0049. Group Anagrams
+	* ✅ 0050. Pow(x, n)
+	* ✅ 0054. Spiral Matrix
+	* ✅ 0055. Jump Game
 	* ✅ 0279. Perfect Square
 	* ⬜️ 0300. Longest Increasing Subsequence
 	* ⬜️ 0394. Decode String
